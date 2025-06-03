@@ -41,7 +41,7 @@ A continuación, algunos ejemplos de visualizaciones generadas:
 
 - **Gráfico de barras**: muestra que la Tienda 4 tiene los ingresos más bajos y el costo de envío más bajo.
 - **Gráfico circular**: evidencia que la Tienda 1 representa la mayor parte de la utilidad total.
-- **Gráfico de dispersión con regresión**: muestra que la tendencia de la ventas en la Tienda 1 y 2 son similares.
+- **Gráfico lineal con regresión**: muestra que la tendencia de la ventas en la Tienda 1 y 2 son similares.
 
 Estos insights permiten tomar una decisión basada en datos y se profundizaran mas en el informe final sobre cuál tienda vender.
 
