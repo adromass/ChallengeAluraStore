@@ -14,7 +14,6 @@ El objetivo principal es identificar la tienda menos eficiente mediante el anál
 
 Este análisis se apoya en datos reales de ventas y se presenta a través de visualizaciones gráficas y conclusiones basadas en datos.
 
----
 
 ## Estructura del Proyecto
 
@@ -36,8 +35,6 @@ Al final del análisis individual, se incluyen visualizaciones que comparan el r
 - Gráfico circular: porcentaje de utilidad de cada tienda  
 - Gráfico de dispersión: ventas trimestrales por tienda, con líneas de regresión para observar tendencias
 
----
-
 ## Ejemplos de Gráficos e Insights
 
 A continuación, algunos ejemplos de visualizaciones generadas:
@@ -47,8 +44,6 @@ A continuación, algunos ejemplos de visualizaciones generadas:
 - **Gráfico de dispersión con regresión**: muestra que la tendencia de la ventas en la Tienda 1 y 2 son similares.
 
 Estos insights permiten tomar una decisión basada en datos sobre cuál tienda vender.
-
----
 
 ## Instrucciones para Ejecutar el Notebook
 
@@ -68,7 +63,6 @@ Estos insights permiten tomar una decisión basada en datos sobre cuál tienda v
 
 Ejecuta cada celda para visualizar el análisis completo y obtener la recomendación final.
 
----
 ## Recomendación Final
 
 Con base en todos los análisis y visualizaciones, se presenta una recomendación clara al final del notebook, justificando cuál tienda debería vender el Sr. Juan para maximizar sus oportunidades de éxito en su nuevo emprendimiento.
