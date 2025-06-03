@@ -33,7 +33,7 @@ Al final del análisis individual, se incluyen visualizaciones que comparan el r
 - Gráfico de barras: ingresos totales por tienda  
 - Gráfico de barras: costos de envío promedio por tienda  
 - Gráfico circular: porcentaje de utilidad de cada tienda  
-- Gráfico de dispersión: ventas trimestrales por tienda, con líneas de regresión para observar tendencias
+- Gráfico de lineas: ventas trimestrales por tienda, con líneas de regresión para observar tendencias
 
 ## Ejemplos de Gráficos e Insights
 
