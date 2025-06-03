@@ -61,7 +61,7 @@ Estos insights permiten tomar una decisión basada en datos y se profundizaran m
 
 4. Abre el archivo .ipynb en Jupyter Notebook o Google Colab.
 
-Ejecuta cada celda para visualizar el análisis completo y obtener la recomendación final.
+5. Ejecuta cada celda para visualizar el análisis completo y obtener la recomendación final.
 
 ## Recomendación Final
 
