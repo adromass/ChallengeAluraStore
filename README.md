@@ -43,7 +43,7 @@ A continuación, algunos ejemplos de visualizaciones generadas:
 - **Gráfico circular**: evidencia que la Tienda 1 representa la mayor parte de la utilidad total.
 - **Gráfico de dispersión con regresión**: muestra que la tendencia de la ventas en la Tienda 1 y 2 son similares.
 
-Estos insights permiten tomar una decisión basada en datos sobre cuál tienda vender.
+Estos insights permiten tomar una decisión basada en datos y se profundizaran mas en el informe final sobre cuál tienda vender.
 
 ## Instrucciones para Ejecutar el Notebook
 
